@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getSidebarByToc 1`] = `
+Array [
+  Object {
+    "children": Array [],
+    "path": "/intro/",
+    "title": "前言",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/sc1lvc",
+        "前端开发的演变",
+      ],
+      Array [
+        "/wybhm9",
+        "初始化项目",
+      ],
+      Array [
+        "/fd5af7",
+        "第一个组件",
+      ],
+      Array [
+        "/agmsgo",
+        "使用 Ant Design 组件",
+      ],
+      Array [
+        "/goozth",
+        "受控组件与非受控组件",
+      ],
+    ],
+    "path": "/#/",
+    "title": "第一章: 基础知识",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/layout",
+        "基本布局",
+      ],
+      Array [
+        "/ghalng",
+        "侧边导航",
+      ],
+      Array [
+        "/ipsba8",
+        "路由配置",
+      ],
+    ],
+    "path": "/chapter2/",
+    "title": "第二章: 布局与路由",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/abl3ad",
+        "使用 model",
+      ],
+      Array [
+        "/dsl8ee",
+        "搭建基于 model 的卡片列表页面",
+      ],
+      Array [
+        "/ig6mzb",
+        "在 model 中请求服务端数据",
+      ],
+      Array [
+        "/kmmq56",
+        "模拟服务端数据",
+      ],
+    ],
+    "path": "/chapter3/",
+    "title": "第三章: 小试牛刀",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/ndfx96",
+        "表格",
+      ],
+      Array [
+        "/up1dn3",
+        "表单",
+      ],
+      Array [
+        "/dk8xsp",
+        "图表",
+      ],
+    ],
+    "path": "/chapter4/",
+    "title": "第四章: 复杂页面",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/customized_styles",
+        "自定义样式",
+      ],
+      Array [
+        "/wvbsue",
+        "上传与下载",
+      ],
+      Array [
+        "/aut0sr",
+        "国际化",
+      ],
+      Array [
+        "/lifemethods",
+        "React 的生命周期",
+      ],
+      Array [
+        "/auth",
+        "权限",
+      ],
+      Array [
+        "/unittest",
+        "单元测试",
+      ],
+      Array [
+        "/typescript",
+        "使用 TypeScript",
+      ],
+    ],
+    "path": "/#/",
+    "title": "第五章: 进阶功能",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/byllph",
+        "你需要了解的 ES6 语法",
+      ],
+      Array [
+        "/tydf0a",
+        "深入理解 umi",
+      ],
+      Array [
+        "/about",
+        "关于我们",
+      ],
+    ],
+    "path": "/#/",
+    "title": "附录",
+  },
+]
+`;

@@ -1,0 +1,57 @@
+{
+  "name": "vuepress-plugin-yuque",
+  "version": "0.0.0",
+  "description": "I: Yuque Repo, O: VuePress Site!",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "jest",
+    "lint": "xo",
+    "dev": "vuepress dev example --temp .temp",
+    "build": "vuepress build example --temp .temp"
+  },
+  "repository": {
+    "url": "ulivz/vuepress-plugin-yuque",
+    "type": "git"
+  },
+  "author": "ulivz<chl814@foxmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "conf": "^2.2.0",
+    "debug": "^4.1.1",
+    "ora": "^3.0.0"
+  },
+  "devDependencies": {
+    "xo": "0.23.0",
+    "eslint-config-sherry": "0.0.1",
+    "husky": "1.2.0",
+    "lint-staged": "8.1.0",
+    "jest": "23.6.0",
+    "vuepress": "1.0.0-alpha.36"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "xo": {
+    "extends": [
+      "sherry"
+    ],
+    "envs": [
+      "jest"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js}": [
+      "xo --fix",
+      "git add"
+    ]
+  }
+}
