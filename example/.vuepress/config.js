@@ -1,11 +1,15 @@
 module.exports = {
-  title: 'Ant Design 实战教程',
-  description: 'build your yuque\'s docs via vuepress',
   plugins: [
     [
       require('../../lib/index.js'),
       {
-        repoId: '146550'
+        repoId: '146550',
+        home: {
+          // actionText: 'Getting Started →',
+          // actionLink: '/intro/',
+          // heroImage: 'https://cdn.nlark.com/yuque/0/2018/png/84868/1535520500482-avatar/20c595c5-ab31-4543-9142-f36cc87c8868.png?x-oss-process=image/resize,m_fill,w_320,h_320',
+          // footer: `Copyright © 蚂蚁金服体验技术部`
+        }
       }
     ]
   ]
