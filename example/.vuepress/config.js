@@ -1,11 +1,12 @@
 module.exports = {
-  title: 'Ant Design 实战教程',
-  description: '基于 umi 的 Ant Design 实战教程',
+  // title: 'Ant Design 实战教程',
+  // description: '基于 umi 的 Ant Design 实战教程',
   plugins: [
     [
       require('../../lib/index.js'),
       {
-        repoId: '146550',
+        repoUrl: 'https://www.yuque.com/yuque/developer',
+        // repoId: '146550',
         home: {
           // actionText: 'Getting Started →',
           // actionLink: '/intro/',
