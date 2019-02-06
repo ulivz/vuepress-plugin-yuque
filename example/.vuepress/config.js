@@ -1,4 +1,6 @@
 module.exports = {
+  title: 'Ant Design 实战教程',
+  description: '基于 umi 的 Ant Design 实战教程',
   plugins: [
     [
       require('../../lib/index.js'),
