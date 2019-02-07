@@ -1,3 +1,4 @@
 node_modules
 .temp*
 docs2
+dist

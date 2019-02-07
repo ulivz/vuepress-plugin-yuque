@@ -9,8 +9,8 @@
   "scripts": {
     "test": "jest",
     "lint": "xo",
-    "dev": "vuepress dev example --temp .temp",
-    "build": "vuepress build example --temp .temp"
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs --temp .temp"
   },
   "repository": {
     "url": "ulivz/vuepress-plugin-yuque",
@@ -55,5 +55,8 @@
       "xo --fix",
       "git add"
     ]
+  },
+  "resolutions": {
+    "terser": "3.14.1"
   }
 }
