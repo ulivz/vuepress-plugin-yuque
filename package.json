@@ -30,7 +30,9 @@
     "husky": "1.2.0",
     "lint-staged": "8.1.0",
     "jest": "23.6.0",
-    "vuepress": "1.0.0-alpha.36"
+    "vuepress": "1.0.0-alpha.36",
+    "release-it": "v7.4.8",
+    "conventional-changelog-cli": "^2.0.1"
   },
   "jest": {
     "testEnvironment": "node"
