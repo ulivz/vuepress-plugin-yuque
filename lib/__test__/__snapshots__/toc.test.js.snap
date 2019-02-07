@@ -4,144 +4,175 @@ exports[`getSidebarByToc 1`] = `
 Array [
   Object {
     "children": Array [],
+    "collapsable": false,
     "path": "/intro/",
     "title": "前言",
   },
   Object {
     "children": Array [
       Array [
-        "/sc1lvc",
+        "/sc1lvc/",
         "前端开发的演变",
       ],
       Array [
-        "/wybhm9",
+        "/wybhm9/",
         "初始化项目",
       ],
       Array [
-        "/fd5af7",
+        "/fd5af7/",
         "第一个组件",
       ],
       Array [
-        "/agmsgo",
+        "/agmsgo/",
         "使用 Ant Design 组件",
       ],
       Array [
-        "/goozth",
+        "/goozth/",
         "受控组件与非受控组件",
       ],
     ],
-    "path": "/#/",
+    "collapsable": false,
     "title": "第一章: 基础知识",
   },
   Object {
     "children": Array [
       Array [
-        "/layout",
+        "/layout/",
         "基本布局",
       ],
       Array [
-        "/ghalng",
+        "/ghalng/",
         "侧边导航",
       ],
       Array [
-        "/ipsba8",
+        "/ipsba8/",
         "路由配置",
       ],
     ],
+    "collapsable": false,
     "path": "/chapter2/",
     "title": "第二章: 布局与路由",
   },
   Object {
     "children": Array [
       Array [
-        "/abl3ad",
+        "/abl3ad/",
         "使用 model",
       ],
       Array [
-        "/dsl8ee",
+        "/dsl8ee/",
         "搭建基于 model 的卡片列表页面",
       ],
       Array [
-        "/ig6mzb",
+        "/ig6mzb/",
         "在 model 中请求服务端数据",
       ],
       Array [
-        "/kmmq56",
+        "/kmmq56/",
         "模拟服务端数据",
       ],
     ],
+    "collapsable": false,
     "path": "/chapter3/",
     "title": "第三章: 小试牛刀",
   },
   Object {
     "children": Array [
       Array [
-        "/ndfx96",
+        "/ndfx96/",
         "表格",
       ],
       Array [
-        "/up1dn3",
+        "/up1dn3/",
         "表单",
       ],
       Array [
-        "/dk8xsp",
+        "/dk8xsp/",
         "图表",
       ],
     ],
+    "collapsable": false,
     "path": "/chapter4/",
     "title": "第四章: 复杂页面",
   },
   Object {
     "children": Array [
       Array [
-        "/customized_styles",
+        "/customized_styles/",
         "自定义样式",
       ],
       Array [
-        "/wvbsue",
+        "/wvbsue/",
         "上传与下载",
       ],
       Array [
-        "/aut0sr",
+        "/aut0sr/",
         "国际化",
       ],
       Array [
-        "/lifemethods",
+        "/lifemethods/",
         "React 的生命周期",
       ],
       Array [
-        "/auth",
+        "/auth/",
         "权限",
       ],
       Array [
-        "/unittest",
+        "/unittest/",
         "单元测试",
       ],
       Array [
-        "/typescript",
+        "/typescript/",
         "使用 TypeScript",
       ],
     ],
-    "path": "/#/",
+    "collapsable": false,
     "title": "第五章: 进阶功能",
   },
   Object {
     "children": Array [
       Array [
-        "/byllph",
+        "/byllph/",
         "你需要了解的 ES6 语法",
       ],
       Array [
-        "/tydf0a",
+        "/tydf0a/",
         "深入理解 umi",
       ],
       Array [
-        "/about",
+        "/about/",
         "关于我们",
       ],
     ],
-    "path": "/#/",
+    "collapsable": false,
     "title": "附录",
   },
+]
+`;
+
+exports[`getSidebarByToc 2`] = `
+Array [
+  Object {
+    "children": Array [
+      Array [
+        "/intro/",
+        "介绍",
+      ],
+      Array [
+        "/getting-started/",
+        "快速上手",
+      ],
+      Array [
+        "/export-first-website/",
+        "导出第一个站点",
+      ],
+    ],
+    "collapsable": false,
+    "title": "指南",
+  },
+  Array [
+    "/config/",
+    "配置",
+  ],
 ]
 `;
