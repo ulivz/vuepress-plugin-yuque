@@ -11,6 +11,8 @@
     "lint": "xo",
     "dev": "vuepress dev docs --temp .temp",
     "build": "vuepress build docs --temp .temp",
+    "dev:example": "vuepress dev example --temp .temp2",
+    "build:example": "vuepress build example --temp .temp2",
     "release": "release-it"
   },
   "repository": {
