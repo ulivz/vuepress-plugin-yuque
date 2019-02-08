@@ -1,4 +1,11 @@
 module.exports = {
+  head: [
+    ['link', { rel: 'icon', href: `https://cdn.nlark.com/yuque/0/2019/png/242808/1549571925285-2372b0a0-0234-421c-a139-00ea16f1a106.png` }],
+    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+  ],
   plugins: [
     [
       require('../../lib'),
