@@ -29,7 +29,7 @@ module.exports = {
 3. 自带的搜索
 4. 自动生成的上一页/下一页
 
-关于更多，请移步 [视频演示](https://player.youku.com/embed/XNDA1MzAwMDIzNg==) 和 [文档](https://vuepress-plugin-yuque.ulivz.com/)。
+关于更多，请移步 [视频演示](https://player.youku.com/embed/XNDA1MzAwMDIzNg==) | [案例](https://antd-course.ulivz.com/) | [文档](https://vuepress-plugin-yuque.ulivz.com/)。
 
 
 ## Contributing
