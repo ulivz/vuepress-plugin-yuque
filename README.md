@@ -6,6 +6,23 @@
 
 <img src="./.media/hero.png">
 
+## 特性
+
+- **简单**：Zero-Markdown，只需配置你的语雀 repo 地址，就能获得一个 VuePress 站点；
+- **轻松**：自动生成的文档主页、侧边栏让你体验“超轻松”的文档生成体验；
+- **缓存**：完美地解决语雀 Open API 调用次数超限的问题；
+
+关于更多，请移步 
+
+- 案例
+  - [视频演示](https://player.youku.com/embed/XNDA1MzAwMDIzNg==)
+  - [站点地址](https://antd-course.ulivz.com/)
+  - [语雀地址](https://www.yuque.com/ant-design/course)
+  - [源码](https://github.com/ulivz/vuepress-plugin-yuque/tree/master/example/.vuepress)
+- 文档
+  - [站点地址](https://vuepress-plugin-yuque.ulivz.com/)
+  - [语雀地址](https://www.yuque.com/vuepress/vuepress-plugin-yuque)
+  - [源码](https://github.com/ulivz/vuepress-plugin-yuque/tree/master/docs/.vuepress)
 
 ## 快速上手
 
@@ -29,7 +46,6 @@ module.exports = {
 3. 自带的搜索
 4. 自动生成的上一页/下一页
 
-关于更多，请移步 [视频演示](https://player.youku.com/embed/XNDA1MzAwMDIzNg==) | [案例](https://antd-course.ulivz.com/) | [文档](https://vuepress-plugin-yuque.ulivz.com/)。
 
 
 ## Contributing
