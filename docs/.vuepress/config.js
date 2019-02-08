@@ -38,7 +38,7 @@ module.exports = {
           footer: `Copyright © ULIVZ`,
           features: [
             { title: '简单', details: 'Zero-Markdown，只需配置你的语雀 repo 地址，就能获得一个 VuePress 站点' },
-            { title: '轻松', details: '自动生成的文档主页、侧边栏让你体验“超轻松”的文档生成体验' },
+            { title: '高效', details: '自动生成的文档主页、侧边栏让你享受 “高效” 的文档生成体验' },
             { title: '缓存', details: '完美地解决语雀 Open API 调用次数超限的问题' },
           ]
         }
