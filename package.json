@@ -19,20 +19,21 @@
   "author": "ulivz<chl814@foxmail.com>",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.3.0",
+    "cheerio": "^1.0.0-rc.2",
     "conf": "^2.2.0",
     "debug": "^4.1.1",
+    "node-fetch": "^2.3.0",
     "ora": "^3.0.0"
   },
   "devDependencies": {
-    "xo": "0.23.0",
+    "conventional-changelog-cli": "^2.0.1",
     "eslint-config-sherry": "0.0.1",
     "husky": "1.2.0",
-    "lint-staged": "8.1.0",
     "jest": "23.6.0",
-    "vuepress": "1.0.0-alpha.36",
+    "lint-staged": "8.1.0",
     "release-it": "v7.4.8",
-    "conventional-changelog-cli": "^2.0.1"
+    "vuepress": "1.0.0-alpha.36",
+    "xo": "0.23.0"
   },
   "jest": {
     "testEnvironment": "node"
