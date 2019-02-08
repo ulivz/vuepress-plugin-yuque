@@ -8,7 +8,7 @@ module.exports = {
         // repoUrl: 'https://www.yuque.com/ant-design/course',
         home: {
           actionText: 'Getting Started →',
-          actionLink: '/intro/',
+          actionLink: '/intro.html',
           heroImage: 'https://cdn.nlark.com/yuque/0/2019/png/242808/1549571925285-2372b0a0-0234-421c-a139-00ea16f1a106.png',
           footer: `Copyright © ULIVZ`,
           features: [
