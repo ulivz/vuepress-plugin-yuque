@@ -2,20 +2,31 @@
 
 [![NPM version](https://badgen.net/npm/v/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![NPM downloads](https://badgen.net/npm/dm/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![CircleCI](https://badgen.net/circleci/github/ulivz/vuepress-plugin-yuque/master)](https://circleci.com/gh/ulivz/vuepress-plugin-yuque/tree/master) 
 
-## Install
+> 请注意，本插件需要 VuePress >= 1.0.0-alpha.37。
 
-```bash
-npm i vuepress-plugin-yuque
-```
-
-## Usage
+## 快速上手
 
 ```js
-const vuepressPluginYuque = require('vuepress-plugin-yuque')
-
-vuepressPluginYuque()
-//=> foo
+// .vuepress/config.js
+module.exports = {
+  title: 'Ant Design 实战教程',
+  description: '基于 umi 的 Ant Design 实战教程',
+  plugins: [
+    ['vuepress-plugin-yuque', {
+      repoUrl: 'https://www.yuque.com/ant-design/course',
+    }]
+  ]
+}
 ```
+
+你将获得：
+
+1. 自动生成的主页
+2. 根据语雀的目录自动生成的侧边栏
+3. 自带的搜索
+4. 自动生成的上一页/下一页
+
+关于更多，请移步[文档](https://vuepress-plugin-yuque.ulivz.com/)。
 
 ## Contributing
 
