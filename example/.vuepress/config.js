@@ -15,7 +15,6 @@ module.exports = {
     [
       require('../../lib'),
       {
-        html: true,
         repoUrl: 'https://www.yuque.com/ant-design/course',
         home: {
           features: [
