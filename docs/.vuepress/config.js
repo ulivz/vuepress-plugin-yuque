@@ -6,6 +6,25 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
+  themeConfig: {
+    repo: 'ulivz/vuepress-plugin-yuque',
+    nav: [
+      { text: '指南', link: '/intro.html' },
+      { text: '配置', link: '/config.html' },
+      { text: 'CHANGELOG', link: '/changelog.html' },
+    ]
+  },
+  async additionalPages () {
+    const fetch = require('node-fetch')
+    const response = await fetch('https://raw.githubusercontent.com/ulivz/vuepress-plugin-yuque/master/CHANGELOG.md')
+    const content = await response.text()
+    return [
+      {
+        path: '/changelog.html',
+        content
+      }
+    ]
+  },
   plugins: [
     [
       require('../../lib'),
