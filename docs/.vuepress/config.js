@@ -1,10 +1,11 @@
 module.exports = {
   plugins: [
     [
-      require('../../lib/index.js'),
+      require('../../lib'),
       {
         html: true,
         repoUrl: 'https://www.yuque.com/vuepress/vuepress-plugin-yuque',
+        // repoUrl: 'https://www.yuque.com/ant-design/course',
         home: {
           actionText: 'Getting Started →',
           actionLink: '/intro/',
