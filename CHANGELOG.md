@@ -1,3 +1,20 @@
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.1.0...v0.2.0) (2019-02-08)
+
+
+### Bug Fixes
+
+* **$core:** changing repoUrl under dev doesn't take effect ([93e0c06](https://github.com/ulivz/vuepress-plugin-yuque/commit/93e0c06))
+* **$core:** empty node: Cannot read property 'format' of undefined ([3c0c3bc](https://github.com/ulivz/vuepress-plugin-yuque/commit/3c0c3bc))
+* **$toc:** using safe pop to avoid empty stack ([6eb19b4](https://github.com/ulivz/vuepress-plugin-yuque/commit/6eb19b4))
+
+
+### Features
+
+* **$core:** enable .html suffix by default ([9a5167f](https://github.com/ulivz/vuepress-plugin-yuque/commit/9a5167f))
+
+
+
 <a name="0.1.0"></a>
 # 0.1.0 (2019-02-08)
 
