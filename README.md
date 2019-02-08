@@ -2,7 +2,10 @@
 
 [![NPM version](https://badgen.net/npm/v/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![NPM downloads](https://badgen.net/npm/dm/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![CircleCI](https://badgen.net/circleci/github/ulivz/vuepress-plugin-yuque/master)](https://circleci.com/gh/ulivz/vuepress-plugin-yuque/tree/master) 
 
-> 请注意，本插件需要 VuePress >= 1.0.0-alpha.37。
+> 本插件需要 VuePress >= 1.0.0-alpha.37。
+
+<img src="./.media/hero.png">
+
 
 ## 快速上手
 
