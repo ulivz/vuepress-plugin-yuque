@@ -26,6 +26,8 @@
 
 ## 快速上手
 
+在 VuePress 中配置 `repoUrl`：
+
 ```js
 // .vuepress/config.js
 module.exports = {
@@ -39,14 +41,7 @@ module.exports = {
 }
 ```
 
-你将获得：
-
-1. 自动生成的主页
-2. 根据语雀的目录自动生成的侧边栏
-3. 自带的搜索
-4. 自动生成的上一页/下一页
-
-
+你就能获得这个[**Site**](https://antd-course.ulivz.com/)，更多使用技巧可参见[文档](https://vuepress-plugin-yuque.ulivz.com/)。
 
 ## Contributing
 
