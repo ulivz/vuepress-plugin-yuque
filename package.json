@@ -23,7 +23,8 @@
     "conf": "^2.2.0",
     "debug": "^4.1.1",
     "node-fetch": "^2.3.0",
-    "ora": "^3.0.0"
+    "ora": "^3.0.0",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.36"
   },
   "devDependencies": {
     "conventional-changelog-cli": "^2.0.1",
