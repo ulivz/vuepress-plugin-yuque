@@ -2,7 +2,7 @@
 
 [![NPM version](https://badgen.net/npm/v/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![NPM downloads](https://badgen.net/npm/dm/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![CircleCI](https://badgen.net/circleci/github/ulivz/vuepress-plugin-yuque/master)](https://circleci.com/gh/ulivz/vuepress-plugin-yuque/tree/master) 
 
-> 本插件需要 VuePress >= 1.0.0-alpha.37。
+> 本插件需要 VuePress >= `1.0.0-alpha.37`。
 
 <img src="./.media/hero.png">
 
@@ -41,7 +41,7 @@ module.exports = {
 }
 ```
 
-你就能获得这个[**Site**](https://antd-course.ulivz.com/)，更多使用技巧可参见[文档](https://vuepress-plugin-yuque.ulivz.com/)。
+你就能获得这个[**Site**](https://antd-course.ulivz.com/)，更多使用方法，可参见[文档](https://vuepress-plugin-yuque.ulivz.com/)。
 
 ## Contributing
 
