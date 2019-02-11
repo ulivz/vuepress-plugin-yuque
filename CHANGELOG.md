@@ -1,3 +1,18 @@
+<a name="0.3.0"></a>
+# [0.3.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.2.1...v0.3.0) (2019-02-11)
+
+
+### Bug Fixes
+
+* **$core:** throw error when toc's length is 1 ([df4e48c](https://github.com/ulivz/vuepress-plugin-yuque/commit/df4e48c))
+
+
+### Features
+
+* **$toc:** always set top-level node to branch node instead of leaf node ([44216dd](https://github.com/ulivz/vuepress-plugin-yuque/commit/44216dd))
+
+
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.2.0...v0.2.1) (2019-02-11)
 
