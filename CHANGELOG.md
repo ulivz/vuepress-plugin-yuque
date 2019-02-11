@@ -1,3 +1,14 @@
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.2.0...v0.2.1) (2019-02-11)
+
+
+### Bug Fixes
+
+* **$core:** cannot fetch data from private repo (close: [#2](https://github.com/ulivz/vuepress-plugin-yuque/issues/2)) ([a59c420](https://github.com/ulivz/vuepress-plugin-yuque/commit/a59c420))
+* **$core:** throw error since "prettify" doesn't check null (close: [#1](https://github.com/ulivz/vuepress-plugin-yuque/issues/1)) ([1110274](https://github.com/ulivz/vuepress-plugin-yuque/commit/1110274))
+
+
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.1.0...v0.2.0) (2019-02-08)
 
