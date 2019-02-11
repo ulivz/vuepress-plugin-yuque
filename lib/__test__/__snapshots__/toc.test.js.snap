@@ -3,150 +3,149 @@
 exports[`getSidebarByToc 1`] = `
 Array [
   Object {
-    "children": Array [
-      Object {
-        "children": Array [
-          Array [
-            "/sc1lvc.html",
-            "前端开发的演变",
-          ],
-          Array [
-            "/wybhm9.html",
-            "初始化项目",
-          ],
-          Array [
-            "/fd5af7.html",
-            "第一个组件",
-          ],
-          Array [
-            "/agmsgo.html",
-            "使用 Ant Design 组件",
-          ],
-          Array [
-            "/goozth.html",
-            "受控组件与非受控组件",
-          ],
-        ],
-        "collapsable": false,
-        "title": "第一章: 基础知识",
-      },
-      Object {
-        "children": Array [
-          Array [
-            "/layout.html",
-            "基本布局",
-          ],
-          Array [
-            "/ghalng.html",
-            "侧边导航",
-          ],
-          Array [
-            "/ipsba8.html",
-            "路由配置",
-          ],
-        ],
-        "collapsable": false,
-        "path": "/chapter2.html",
-        "title": "第二章: 布局与路由",
-      },
-      Object {
-        "children": Array [
-          Array [
-            "/abl3ad.html",
-            "使用 model",
-          ],
-          Array [
-            "/dsl8ee.html",
-            "搭建基于 model 的卡片列表页面",
-          ],
-          Array [
-            "/ig6mzb.html",
-            "在 model 中请求服务端数据",
-          ],
-          Array [
-            "/kmmq56.html",
-            "模拟服务端数据",
-          ],
-        ],
-        "collapsable": false,
-        "path": "/chapter3.html",
-        "title": "第三章: 小试牛刀",
-      },
-      Object {
-        "children": Array [
-          Array [
-            "/ndfx96.html",
-            "表格",
-          ],
-          Array [
-            "/up1dn3.html",
-            "表单",
-          ],
-          Array [
-            "/dk8xsp.html",
-            "图表",
-          ],
-        ],
-        "collapsable": false,
-        "path": "/chapter4.html",
-        "title": "第四章: 复杂页面",
-      },
-      Object {
-        "children": Array [
-          Array [
-            "/customized_styles.html",
-            "自定义样式",
-          ],
-          Array [
-            "/wvbsue.html",
-            "上传与下载",
-          ],
-          Array [
-            "/aut0sr.html",
-            "国际化",
-          ],
-          Array [
-            "/lifemethods.html",
-            "React 的生命周期",
-          ],
-          Array [
-            "/auth.html",
-            "权限",
-          ],
-          Array [
-            "/unittest.html",
-            "单元测试",
-          ],
-          Array [
-            "/typescript.html",
-            "使用 TypeScript",
-          ],
-        ],
-        "collapsable": false,
-        "title": "第五章: 进阶功能",
-      },
-      Object {
-        "children": Array [
-          Array [
-            "/byllph.html",
-            "你需要了解的 ES6 语法",
-          ],
-          Array [
-            "/tydf0a.html",
-            "深入理解 umi",
-          ],
-          Array [
-            "/about.html",
-            "关于我们",
-          ],
-        ],
-        "collapsable": false,
-        "title": "附录",
-      },
-    ],
+    "children": Array [],
     "collapsable": false,
     "path": "/intro.html",
     "title": "前言",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/sc1lvc.html",
+        "前端开发的演变",
+      ],
+      Array [
+        "/wybhm9.html",
+        "初始化项目",
+      ],
+      Array [
+        "/fd5af7.html",
+        "第一个组件",
+      ],
+      Array [
+        "/agmsgo.html",
+        "使用 Ant Design 组件",
+      ],
+      Array [
+        "/goozth.html",
+        "受控组件与非受控组件",
+      ],
+    ],
+    "collapsable": false,
+    "title": "第一章: 基础知识",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/layout.html",
+        "基本布局",
+      ],
+      Array [
+        "/ghalng.html",
+        "侧边导航",
+      ],
+      Array [
+        "/ipsba8.html",
+        "路由配置",
+      ],
+    ],
+    "collapsable": false,
+    "path": "/chapter2.html",
+    "title": "第二章: 布局与路由",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/abl3ad.html",
+        "使用 model",
+      ],
+      Array [
+        "/dsl8ee.html",
+        "搭建基于 model 的卡片列表页面",
+      ],
+      Array [
+        "/ig6mzb.html",
+        "在 model 中请求服务端数据",
+      ],
+      Array [
+        "/kmmq56.html",
+        "模拟服务端数据",
+      ],
+    ],
+    "collapsable": false,
+    "path": "/chapter3.html",
+    "title": "第三章: 小试牛刀",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/ndfx96.html",
+        "表格",
+      ],
+      Array [
+        "/up1dn3.html",
+        "表单",
+      ],
+      Array [
+        "/dk8xsp.html",
+        "图表",
+      ],
+    ],
+    "collapsable": false,
+    "path": "/chapter4.html",
+    "title": "第四章: 复杂页面",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/customized_styles.html",
+        "自定义样式",
+      ],
+      Array [
+        "/wvbsue.html",
+        "上传与下载",
+      ],
+      Array [
+        "/aut0sr.html",
+        "国际化",
+      ],
+      Array [
+        "/lifemethods.html",
+        "React 的生命周期",
+      ],
+      Array [
+        "/auth.html",
+        "权限",
+      ],
+      Array [
+        "/unittest.html",
+        "单元测试",
+      ],
+      Array [
+        "/typescript.html",
+        "使用 TypeScript",
+      ],
+    ],
+    "collapsable": false,
+    "title": "第五章: 进阶功能",
+  },
+  Object {
+    "children": Array [
+      Array [
+        "/byllph.html",
+        "你需要了解的 ES6 语法",
+      ],
+      Array [
+        "/tydf0a.html",
+        "深入理解 umi",
+      ],
+      Array [
+        "/about.html",
+        "关于我们",
+      ],
+    ],
+    "collapsable": false,
+    "title": "附录",
   },
 ]
 `;
@@ -208,19 +207,39 @@ Array [
     "collapsable": false,
     "title": "指南",
   },
-  Array [
-    "/config.html",
-    "配置",
-  ],
+  Object {
+    "children": Array [],
+    "collapsable": false,
+    "path": "/config.html",
+    "title": "配置",
+  },
+  Object {
+    "children": Array [],
+    "collapsable": false,
+    "title": "进阶",
+  },
+  Object {
+    "children": Array [],
+    "collapsable": false,
+    "path": "/a.html",
+    "title": "A",
+  },
   Object {
     "children": Array [
       Array [
-        "/zero-markdown.html",
-        "Zero-Markdown",
+        "/b-1.html",
+        "B-1",
       ],
     ],
     "collapsable": false,
-    "title": "进阶",
+    "path": "/b.html",
+    "title": "B",
+  },
+  Object {
+    "children": Array [],
+    "collapsable": false,
+    "path": "/c.html",
+    "title": "C",
   },
 ]
 `;
