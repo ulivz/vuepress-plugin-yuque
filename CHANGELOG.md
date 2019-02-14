@@ -1,3 +1,13 @@
+<a name="0.3.1"></a>
+## [0.3.1](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.3.0...v0.3.1) (2019-02-14)
+
+
+### Bug Fixes
+
+* **$core:** cannot use correct api base url for custom yuque domain ([818343e](https://github.com/ulivz/vuepress-plugin-yuque/commit/818343e))
+
+
+
 <a name="0.3.0"></a>
 # [0.3.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.2.1...v0.3.0) (2019-02-11)
 
