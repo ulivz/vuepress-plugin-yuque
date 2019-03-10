@@ -1,6 +1,6 @@
 # vuepress-plugin-yuque
 
-[![NPM version](https://badgen.net/npm/v/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![NPM downloads](https://badgen.net/npm/dm/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![CircleCI](https://badgen.net/circleci/github/ulivz/vuepress-plugin-yuque/master)](https://circleci.com/gh/ulivz/vuepress-plugin-yuque/tree/master) 
+[![NPM version](https://badgen.net/npm/v/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![NPM downloads](https://badgen.net/npm/dm/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) 
 
 > 本插件需要 VuePress >= `1.0.0-alpha.37`。
 
