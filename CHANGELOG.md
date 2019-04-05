@@ -1,3 +1,13 @@
+<a name="0.5.1"></a>
+## [0.5.1](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.0...v0.5.1) (2019-04-05)
+
+
+### Bug Fixes
+
+* regression of escape html in code ([8f638e3](https://github.com/ulivz/vuepress-plugin-yuque/commit/8f638e3))
+
+
+
 <a name="0.5.0"></a>
 # [0.5.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.4.0...v0.5.0) (2019-04-05)
 
