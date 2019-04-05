@@ -1,3 +1,13 @@
+<a name="0.6.0"></a>
+# [0.6.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.5...v0.6.0) (2019-04-05)
+
+
+### Features
+
+* yuqueLink & yuqueLinkHtml option ([b3d7d06](https://github.com/ulivz/vuepress-plugin-yuque/commit/b3d7d06))
+
+
+
 <a name="0.5.5"></a>
 ## [0.5.5](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.4...v0.5.5) (2019-04-05)
 
