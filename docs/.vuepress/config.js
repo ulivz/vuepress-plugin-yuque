@@ -30,6 +30,7 @@ module.exports = {
       require('../../lib'),
       {
         html: true,
+        yuqueLink: true,
         repoUrl: 'https://www.yuque.com/vuepress/vuepress-plugin-yuque',
         home: {
           actionText: 'Getting Started →',
