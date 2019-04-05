@@ -4,7 +4,7 @@
 
 ### Bug Fixes
 
-* table's styles cannot be removed ([1035eb3](https://github.com/ulivz/vuepress-plugin-yuque/commit/1035eb3))
+* **html:** table's styles cannot be removed ([1035eb3](https://github.com/ulivz/vuepress-plugin-yuque/commit/1035eb3))
 
 
 
@@ -14,7 +14,7 @@
 
 ### Bug Fixes
 
-* need to escape twice ([923b31a](https://github.com/ulivz/vuepress-plugin-yuque/commit/923b31a))
+* **html:** need to escape twice ([923b31a](https://github.com/ulivz/vuepress-plugin-yuque/commit/923b31a))
 
 
 
@@ -24,7 +24,7 @@
 
 ### Bug Fixes
 
-* regression of escape html in code ([8f638e3](https://github.com/ulivz/vuepress-plugin-yuque/commit/8f638e3))
+* **html:** regression of escape html in code ([8f638e3](https://github.com/ulivz/vuepress-plugin-yuque/commit/8f638e3))
 
 
 
@@ -34,8 +34,8 @@
 
 ### Features
 
-* bump vuepress ([cce0e73](https://github.com/ulivz/vuepress-plugin-yuque/commit/cce0e73))
-* remove html tags in code and remove table styles ([fe75e46](https://github.com/ulivz/vuepress-plugin-yuque/commit/fe75e46))
+* **$core:** bump vuepress-plugin-medium ([cce0e73](https://github.com/ulivz/vuepress-plugin-yuque/commit/cce0e73))
+* **html:** remove html tags in code and remove table styles ([fe75e46](https://github.com/ulivz/vuepress-plugin-yuque/commit/fe75e46))
 
 
 
@@ -45,7 +45,7 @@
 
 ### Features
 
-* functional source (using markdown when return 'markdown') ([5ef63cd](https://github.com/ulivz/vuepress-plugin-yuque/commit/5ef63cd))
+* **$core:** functional source option (using markdown when return 'markdown') ([5ef63cd](https://github.com/ulivz/vuepress-plugin-yuque/commit/5ef63cd))
 
 
 
