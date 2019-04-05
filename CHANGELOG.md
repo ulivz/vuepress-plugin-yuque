@@ -1,3 +1,13 @@
+<a name="0.5.5"></a>
+## [0.5.5](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.4...v0.5.5) (2019-04-05)
+
+
+### Bug Fixes
+
+* typo ([2a0b86b](https://github.com/ulivz/vuepress-plugin-yuque/commit/2a0b86b))
+
+
+
 <a name="0.5.4"></a>
 ## [0.5.4](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.3...v0.5.4) (2019-04-05)
 
