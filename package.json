@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-yuque",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "I: Yuque Repo, O: VuePress Site!",
   "main": "lib/index.js",
   "files": [

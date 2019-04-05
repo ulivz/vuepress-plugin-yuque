@@ -1,3 +1,13 @@
+<a name="0.5.2"></a>
+## [0.5.2](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.1...v0.5.2) (2019-04-05)
+
+
+### Bug Fixes
+
+* need to escape twice ([923b31a](https://github.com/ulivz/vuepress-plugin-yuque/commit/923b31a))
+
+
+
 <a name="0.5.1"></a>
 ## [0.5.1](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.0...v0.5.1) (2019-04-05)
 
