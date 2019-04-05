@@ -22,7 +22,7 @@
   "author": "ulivz<chl814@foxmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.37",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.44",
     "cheerio": "^1.0.0-rc.2",
     "conf": "^2.2.0",
     "debug": "^4.1.1",
@@ -36,7 +36,7 @@
     "jest": "23.6.0",
     "lint-staged": "8.1.0",
     "release-it": "v7.4.8",
-    "vuepress": "1.0.0-alpha.37",
+    "vuepress": "1.0.0-alpha.44",
     "xo": "0.23.0"
   },
   "jest": {
