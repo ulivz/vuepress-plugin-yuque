@@ -1,3 +1,13 @@
+<a name="0.5.3"></a>
+## [0.5.3](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.2...v0.5.3) (2019-04-05)
+
+
+### Bug Fixes
+
+* table's styles cannot be removed ([1035eb3](https://github.com/ulivz/vuepress-plugin-yuque/commit/1035eb3))
+
+
+
 <a name="0.5.2"></a>
 ## [0.5.2](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.1...v0.5.2) (2019-04-05)
 
