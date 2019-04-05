@@ -1,3 +1,14 @@
+<a name="0.5.0"></a>
+# [0.5.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.4.0...v0.5.0) (2019-04-05)
+
+
+### Features
+
+* bump vuepress ([cce0e73](https://github.com/ulivz/vuepress-plugin-yuque/commit/cce0e73))
+* remove html tags in code and remove table styles ([fe75e46](https://github.com/ulivz/vuepress-plugin-yuque/commit/fe75e46))
+
+
+
 <a name="0.4.0"></a>
 # [0.4.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.3.1...v0.4.0) (2019-04-05)
 
