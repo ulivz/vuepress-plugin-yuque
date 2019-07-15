@@ -31,7 +31,11 @@ module.exports = {
       {
         html: true,
         yuqueLink: true,
-        // repoUrl: 'https://www.yuque.com/vuepress/vuepress-plugin-yuque',
+        /**
+         * new option: multiRepoUrls
+         * @property {repoRoute} route for the indivial repo, must given. doesn't support '/'
+         * @property {repoUrl} the url of the repo
+         */
         multiRepoUrls: [
           {
             repoRoute: 'a',
