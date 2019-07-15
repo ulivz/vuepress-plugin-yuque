@@ -33,8 +33,8 @@ module.exports = {
         yuqueLink: true,
         /**
          * new option: multiRepoUrls
-         * @property {repoRoute} route for the indivial repo, must given. doesn't support '/'
-         * @property {repoUrl} the url of the repo
+         * @property {string} repoRoute - route for the indivial repo, must given. doesn't support '/'
+         * @property {string} repoUrl - the url of the repo
          */
         multiRepoUrls: [
           {
