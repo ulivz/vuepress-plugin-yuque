@@ -1,3 +1,13 @@
+<a name="0.7.0-beta.1"></a>
+# [0.7.0-beta.1](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.6.0...v0.7.0-beta.1) (2019-07-18)
+
+
+### Bug Fixes
+
+* re-instantiate when repoId has been changed ([565a347](https://github.com/ulivz/vuepress-plugin-yuque/commit/565a347))
+
+
+
 <a name="0.6.0"></a>
 # [0.6.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.5...v0.6.0) (2019-04-05)
 
