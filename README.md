@@ -1,6 +1,6 @@
 # vuepress-plugin-yuque
 
-[![NPM version](https://badgen.net/npm/v/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![NPM downloads](https://badgen.net/npm/dm/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) 
+[![NPM version](https://badgen.net/npm/v/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![NPM downloads](https://badgen.net/npm/dm/vuepress-plugin-yuque)](https://npmjs.com/package/vuepress-plugin-yuque) [![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/vuepress-plugin-yuque.svg)](https://greenkeeper.io/) 
 
 > 本插件需要 VuePress >= `1.0.0-alpha.37`。
 
