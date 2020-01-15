@@ -1,3 +1,13 @@
+## [0.6.1](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.6.0...v0.6.1) (2020-01-15)
+
+
+### Bug Fixes
+
+* 1. fail to parse pre tag, may cause code loss issues; 2.transformheander should ignore empty string ([3726743](https://github.com/ulivz/vuepress-plugin-yuque/commit/3726743f97c722706e66d0a28048eda231102159))
+* re-instantiate when repoId has been changed ([565a347](https://github.com/ulivz/vuepress-plugin-yuque/commit/565a347039cad6ab13d94ab069025de319e40da8))
+
+
+
 <a name="0.6.0"></a>
 # [0.6.0](https://github.com/ulivz/vuepress-plugin-yuque/compare/v0.5.5...v0.6.0) (2019-04-05)
 
