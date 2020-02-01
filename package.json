@@ -24,7 +24,7 @@
   "dependencies": {
     "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.44",
     "cheerio": "^1.0.0-rc.2",
-    "conf": "^2.2.0",
+    "conf": "^4.0.1",
     "debug": "^4.1.1",
     "node-fetch": "^2.3.0",
     "ora": "^3.0.0"
