@@ -36,6 +36,7 @@ module.exports = {
   plugins: [
     ['vuepress-plugin-yuque', {
       repoUrl: 'https://www.yuque.com/ant-design/course',
+      authToken: '<change-auth-token>',
     }]
   ]
 }
@@ -51,6 +52,9 @@ module.exports = {
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## Notice
+
+出于对知识库安全性的调整，使用第三方 API 访问知识库，需要传入TOKEN，在语雀上点击 个人头像 -> 设置 -> Token 即可获取。
 
 ## Author
 
